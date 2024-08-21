@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/adw
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://andrewdavidwong.com
+  * I am adw (https://keybase.io/adw) on keybase.
+  * I have a public key with fingerprint BBAF 910D 1BC9 DDF4 1043  629F BC21 1FCE E9C5 4C53
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.9"
+        },
+        "key": {
+            "fingerprint": "bbaf910d1bc9ddf41043629fbc211fcee9c54c53",
+            "host": "keybase.io",
+            "key_id": "BC211FCEE9C54C53",
+            "uid": "231f96d8bbaf945f787f6dbbefa6a419",
+            "username": "adw"
+        },
+        "merkle_root": {
+            "ctime": 1440401824,
+            "hash": "1bc5605b65afc99510e3f5b5d1880c1b1f9c60dc56ebfe31876c625112b847106da62b0e1e11cf5b01b9082b923130586f7dfc5dbcceaa9aef18db6e1496bea2",
+            "seqno": 281034
+        },
+        "service": {
+            "hostname": "andrewdavidwong.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1440401881,
+    "expire_in": 157680000,
+    "prev": "8e1bdbb6e9db0e027900044de85f9477ac94d0de98a4067e071ac12851488d1b",
+    "seqno": 18,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFdkn1QFGUcx4/DFwodEREYBLU1tBno5nnu9pWgTDA1By0CLCY6d5/nWdjjuD33
+7jgETiNFrUwdDJLIKdM0J4qxGUIdQdFMDadrJklN8WWsYY7xBaXRmUaxZxmdXvav
+3f19ft/f9/eyZWK0JSbqQv4vh6RXAIjqjSiWot9Ona9lFB2vZLJqGeTWiMdvvnnk
+SsJkMRVkpSL7iE3TZ3p0TGwu38xHTCZTRQyfpnsoBWyCTWJCmSZuJquap4wYXkMz
+tRhFkVUJAgwVJGGsshCwDt4uqQqyQ6giQiTEsYhzUMly3ef/T1VmVNOpYfp3Xi7l
+X8qdP1/K5djcUT4wGrA7oCrxWBwtxHKqIAoqjxWFqDIvs1AyQR8xHrUk46BptZIY
+FW7iNHR9tF/k18woZFnAAijaWWpG9pVTntrmeMApPCerSJI4CIhD5RQOQ1EECCq0
+NuIBphBRVOKAosAj3s5BaFdEVoCAxzJvVwCBBEJEEwFUJCDaFYnadgBO5FUBq4jD
+CkJEliWZqFDECk8gK/EKke3UvY+s8OhMll2EwMGGzG+jSkPE9G1O7HFjHmyQIJar
+NBzUPWU2pFfSXK+h+3WkuylQ7vd7fVlm8/6VXjMjuI8ozkdiTkXzYLq3fy8WUvR/
+gxFhJkOqvZpBnJpJcAIvAvqYhUgV1RQJVOjseSJh2jSwCxKNsiwmIkeXIwgyklgM
+MJFEmQW8QIAAZQTtIgdZUaQ38k+7UKRG5TKq6dPKPLI/YBAm9K41dYwlKsYybqzV
+PF3Lk0/EPb5n1+pJIxl/NVnY6BMPxXBN/Srp3OEz+796Vb7e/pngK09Ic//+RvfF
+zubjn4fvrt7QuNWzrTQZLU3P7Cy5F2rbtOHMnpRps7WJvZcTwkZTXuxzkVDMj2fn
+3sGTxfKWEyn1R87rXXVbl9TMSsmJpJ7T0aadRWcXFN55a1Nng2DLNgoe3D0+bl99
+UuzVS3kDKbHxyzq41JL4DBi99KkroS5X0pBtxc9rrcG13PrEefX5KR/Nf83ttd6q
+Qm+2zd2TCNZO2qW2FG8J7A0VrhmbQxL7T/U3tmesntAzbX/Ll/0/1Y0p3X7zhaRV
+h2acJoFZwz0Ft6YmF9Z+PJyc7Q3c+GNywsHvaqVLCe/3PfPpIjkub3dRxbprSd/4
+uerBoZKG4gPXr327rLspMMdS0lsjOtGLvS2NG9NTHnataQ5XrF/4Q1qop0MbE/wg
+Y7Gl8Wbhpc3eRVNnHow9espIb5g2+PKAa8rmyDub23Jb995Ux+3uPHJx+P702o7r
+U7xHF1y+dsDdPgNZt/dNmGE99iBxXWJ/hn/8aWt28fq4yFAk+/voYFTZ1dvhZiPp
+vWMtN34dqdkxItaz0O1qG+z+cPrzq1r/vHe49OvFn8w5yV1xLfliZ8z41B1NNiE+
+P9K38PVQX93y5dPzrxq7FpVuKKmsbg/HNbQuzAF1NbNvpw1MiVFKt53cu2Vj8rMX
+3/beL5h8tOhc9oWn/wY=
+=hpQd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/adw
+
+==================================================================
